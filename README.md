@@ -25,7 +25,7 @@ make deps
 make
 ```
 
-## Acknoledgment 
+## Acknowledgment 
 [Perl version Wakeonlan - José Pedro Oliveira](http://gsd.di.uminho.pt/jpo/software/wakeonlan.html)
 
 ## License
