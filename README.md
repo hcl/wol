@@ -21,8 +21,13 @@ Options:
 ```bash
 git clone https://github.com/hcl/wol
 cd wol
-make deps
 make
+```
+
+## Install
+
+```bash
+go install github.com/hcl/wol
 ```
 
 ## Acknowledgment 
